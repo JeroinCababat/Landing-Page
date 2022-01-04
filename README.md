@@ -1,0 +1,1 @@
+This is just a simple website, nothing special about it. I made this from scratch.
