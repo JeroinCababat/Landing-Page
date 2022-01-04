@@ -1,1 +1,1 @@
-This is just a simple website, nothing special about it. I made this from scratch.
+This is just a simple website, I made this from scratch. Nothing special about it. 
